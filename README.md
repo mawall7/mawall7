@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mawall7
 - 👀 I’m interested in ... nature sports programming in c# building webapps and api:s with blazor and react 
-- 🌱 I’m currently learning... react
+- 🌱 I’m currently learning... vue
 - 💞️ I’m looking to collaborate on c sharp or javascript projects
 - 📫 How to reach me ... by email: mwmailhem1@gmail.com
 
